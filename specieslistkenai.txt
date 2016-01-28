@@ -1,0 +1,158 @@
+     40 Aleutian Tern
+      1 American Dipper
+      3 American Wigeon
+    175 Ancient Murrelet
+      1 Arctic Loon
+    286 Arctic Tern
+    678 Bald Eagle
+    114 Barrow's Goldeneye
+     22 Belted Kingfisher
+     90 Black-footed Albatross
+   4695 Black-legged Kittiwake
+    127 Black Oystercatcher
+     68 Black Scoter
+      7 Black Turnstone
+     54 Bonaparte's Gull
+   1314 Brachyramphus Murrelet
+     11 Brant
+     41 Bufflehead
+     25 Buller's Shearwater
+      1 Cackling Goose
+      1 California Gull
+      7 Canada Goose
+      1 Canvasback
+      1 Caspian Tern
+     32 Cassin's Auklet
+     26 Common Eider
+     38 Common Goldeneye
+    160 Common Loon
+    232 Common Merganser
+   2987 Common Murre
+      9 Crested Auklet
+    310 Crow, Raven, Magpie
+    223 Dall's Porpoise
+    244 Double-crested Cormorant
+      1 Dovekie
+     12 Fin Whale
+    715 Fork-tailed Storm-petrel
+     25 Glaucous Gull
+   3729 Glaucous-winged Gull
+      2 Glaucous-winged x Herring Gull
+      6 Gray Whale
+      8 Great Blue Heron
+      2 Great Cormorant
+     18 Greater Scaup
+      8 Green-winged Teal
+      1 Gyrfalcon
+     57 Harbor Porpoise
+    420 Harbor Seal
+    480 Harlequin Duck
+    108 Herring gull
+      3 Herring Gull
+    244 Herring gull
+     70 Horned Grebe
+    735 Horned Puffin
+     62 Humpback Whale
+     22 Killer Whale
+      2 King Eider
+    578 Kittlitz's Murrelet
+     27 Laysan Albatross
+      6 Leach's Storm-petrel
+      1 Least Auklet
+      1 Long-billed Dowitcher
+      1 Long-billed Murrelet
+     95 Long-tailed Duck
+     12 Long-tailed Jaeger
+     35 Mallard
+   2442 Marbled Murrelet
+    734 Mew Gull
+     19 Minke Whale
+      7 Mottled Petrel
+   1342 Northern Fulmar
+     12 Northern Fur Seal
+      7 Northern Pintail
+      4 Northern Shoveler
+      1 Osprey
+    138 Pacific Loon
+      2 Pacific White-sided Dolphin
+     59 Parakeet Auklet
+     42 Parasitic Jaeger
+    697 Pelagic Cormorant
+      5 Peregrine Falcon
+   1447 Pigeon Guillemot
+      2 Pink-footed Shearwater
+    177 Pomarine Jaeger
+     55 Red-breasted Merganser
+    119 Red-faced Cormorant
+      1 Red-legged Kittiwake
+    124 Red-necked Grebe
+    389 Red-necked Phalarope
+     18 Red Phalarope
+     17 Red-throated Loon
+    160 Rhinoceros Auklet
+     16 River Otter
+      8 Sabine's Gull
+      2 Sanderling
+   1118 Sea Otter
+      1 Sei Whale
+      2 Semipalmated Plover
+      1 Short-tailed Albatross
+    186 Short-tailed Shearwater
+     18 Slaty-backed Gull
+      1 Solitary Sandpiper
+    906 Sooty Shearwater
+      2 South Polar Skua
+      2 Spectacled Guillemot
+      4 Sperm Whale
+      9 Spotted Sandpiper
+      1 Spotted Seal
+    208 Steller Sea Lion
+     10 Steller's Eider
+      1 Steller's Sea Eagle
+      8 Surfbird
+    251 Surf Scoter
+      1 Thayer's Gull
+     26 Thick-billed Murre
+      1 Trumpeter Swan
+   1554 Tufted Puffin
+    228 Unidentified Alcid
+      9 Unidentified Auklet
+      3 Unidentified Baleen Whale
+     81 Unidentified Bird
+    419 Unidentified Cormorant
+      4 Unidentified Dolphin
+     72 Unidentified Duck
+     11 Unidentified Duck, Goose, or Swan
+     81 Unidentified Goldeneye
+     53 Unidentified Grebe
+      5 Unidentified Guillemot
+    417 Unidentified Gull
+     87 Unidentified Kittiwake
+     76 Unidentified Loon
+     46 Unidentified Merganser
+    661 Unidentified Murre
+     67 Unidentified Murrelet
+      1 Unidentified Otter
+      5 Unidentified Petrel
+     91 Unidentified Phalarope
+      7 Unidentified Porpoise
+     36 Unidentified Procellariiformes
+     19 Unidentified Puffin
+      1 Unidentified Sandpiper
+      4 Unidentified Scaup
+     90 Unidentified Scoter
+      3 Unidentified Seal
+    849 Unidentified Shearwater
+     50 Unidentified Shorebird
+     33 Unidentified Skua
+      1 Unidentified Stint
+      7 Unidentified Storm-petrel
+     54 Unidentified Tern
+     36 Unidentified Whale
+      2 Unidentified Yellowlegs
+      5 Wandering Tattler
+      1 Western Gull
+      3 Western Sandpiper
+      3 Whimbrel
+    395 White-winged Scoter
+      9 Yellow-billed Loon
