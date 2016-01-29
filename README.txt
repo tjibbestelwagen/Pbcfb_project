@@ -10,7 +10,7 @@ Specieslist Kenai contains a list of all species and the total number of observa
 
 alldata.txt is the file pulled form the original database by making a query in MS ACCESS
 
-nppsd.zip contains the files as retrieved from http://alaska.usgs.gov/products/data.php?dataid=1
+nppsd.zip contains the files as retrieved from http://alaska.usgs.gov/products/data.php?dataid=1 REMOVED FROM GITHUB DUE TO FILESIZELIMIT
 
 Kenaimap.pdf is an empty map of the kenai peninsula made with R marmasp. 
 
